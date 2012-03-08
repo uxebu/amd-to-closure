@@ -1,0 +1,1 @@
+(function(){var a={};console.log("the c module");a.module$exports={bar:"the bar"};a.module$exports&&(a=a.module$exports);a;console.log("the b module");console.log("the a module");console.log("running")})();
